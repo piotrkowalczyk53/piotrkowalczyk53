@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrkowalczyk53
 - 🌱 I’m currently studying Applied Computer Science at AGH UST
-- 👀 Im looking for internship to help me develop new skills related to IT
+- 👀 Im looking for internships to help me develop new skills related to IT
 - 📫 How to reach me: piotr.kowalczyk53@gmail.com
 
 <!---
