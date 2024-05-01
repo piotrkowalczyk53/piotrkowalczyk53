@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piotrkowalczyk53
-- 🌱 I’m currently studying Applied Computer Science at AGH UST (3rd year)
+- 🌱 I’m currently studying Applied Computer Science at AGH UST (masters)
 - 👀 Im looking for opportunities that will help me develop new skills related to IT
 - 📫 How to reach me: piotr.kowalczyk53@gmail.com
 
